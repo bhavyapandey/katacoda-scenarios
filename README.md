@@ -8,4 +8,4 @@ Visit this website, https://www.katacoda.com/bhavyapandey, to view the profile a
 Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
 
 
-For examples, visit https://github.com/katacoda/scenario-example
+To view certain examples, visit https://github.com/katacoda/scenario-example
